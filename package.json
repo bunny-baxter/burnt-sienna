@@ -1,0 +1,21 @@
+{
+  "name": "burnt-sienna",
+  "version": "1.0.0",
+  "description": "experimental retro-style RPG",
+  "homepage": "https://github.com/bunny-baxter/burnt-sienna#readme",
+  "bugs": {
+    "url": "https://github.com/bunny-baxter/burnt-sienna/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunny-baxter/burnt-sienna.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "Bunny Baxter",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
